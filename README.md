@@ -8,7 +8,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=trempadeira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TREMPADEIRA&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="148" height="180" src="https://tenor.com/EUjW.gif">
+  <img align="center" width="148" height="180" src="https://media.tenor.com/kUWfJR8vyowAAAAC/cute-sinon.gif">
 </div>
  <br>
 <div  align="center"> 
