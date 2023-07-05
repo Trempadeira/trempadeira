@@ -2,7 +2,7 @@
 
 - 🖥️ Eu trabalho como garçom
 - 📚 Estou estudando Front-end e Back-end
-- 📚 Atualmente cursando Qi Faculdade & Escola tecnica e Udemy
+- 📚 Atualmente cursando na Qi Faculdade & Escola tecnica e Udemy
 
 <div>
   <a href="https://github.com/trempadeira">
