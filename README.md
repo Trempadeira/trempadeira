@@ -29,4 +29,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=TREMPADEIRA&repo=TREMPADEIRA&theme=react)](https://github.com/TREMPADEIRA/TREMPADEIRA)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Trempadeira&repo=Trempadeira&theme=react)](https://github.com/TREMPADEIRA/TREMPADEIRA)
